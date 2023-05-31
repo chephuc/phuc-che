@@ -37,13 +37,21 @@ const Footer = () => {
       </ul>
 
       <div className="footersocials">
-        <a href="https://www.facebook.com/phuc.che.1997" rel="noreferrer">
+        <a
+          href="https://www.facebook.com/phuc.che.1997"
+          rel="noreferrer"
+          target={"_blank"}
+        >
           <FaFacebookF />
         </a>
-        <a href="https://www.instagram.com/phuc.che.97" rel="noreferrer">
+        <a
+          href="https://www.instagram.com/phuc.che.97"
+          rel="noreferrer"
+          target={"_blank"}
+        >
           <FiInstagram />
         </a>
-        <a href="http://twitter.com" rel="noreferrer">
+        <a href="http://twitter.com" rel="noreferrer" target={"_blank"}>
           <IoLogoTwitter />
         </a>
       </div>

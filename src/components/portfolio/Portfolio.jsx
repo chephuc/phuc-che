@@ -7,6 +7,7 @@ import IMG4 from "../../assets/phuc-music.png";
 import IMG5 from "../../assets/phuc-movie.png";
 import IMG6 from "../../assets/sales-landing-page.png";
 import IMG7 from "../../assets/coming-soon.jpg";
+import IMG8 from "../../assets/phuc-sneakers.png";
 
 const data = [
   {
@@ -50,6 +51,13 @@ const data2 = [
     title: "Sales Misa Amis landing page",
     subTitle: "ReactJs",
     demo: "https://misa-amis-thanh-van.netlify.app/",
+  },
+  {
+    id: 6,
+    image: IMG8,
+    title: "Sneakers website",
+    subTitle: "ReactJs - Vite - Tailwind CSS",
+    demo: "https://phuc-sneakers.netlify.app/",
   },
   {
     id: 7,
