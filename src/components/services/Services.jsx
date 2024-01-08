@@ -28,7 +28,7 @@ const Services = () => {
               <BiCheck className="service__list-icon" />
               <p>
                 <b>Back-end development:</b> build scalable back-end systems
-                using Java and Node.js.
+                using Java and NestJs.
               </p>
             </li>
             <li>

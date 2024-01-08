@@ -40,7 +40,7 @@ const about = () => {
           <p>
             I am a full-stack programmer with 4 years of experience. I am
             proficient in a wide range of front-end and back-end technologies,
-            including HTML, CSS, JavaScript, React, Node.js, Java, and SQL. I
+            including HTML, CSS, JavaScript, Java, ReactJs, NestJs, and SQL. I
             have worked on various projects and have a proven track record of
             delivering high-quality solutions on time.
             <br />
